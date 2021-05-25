@@ -10,3 +10,6 @@ https://www.crunchbase.com/
 
 Навигатор по стартапам  
 https://navigator.innoagency.ru/
+
+Идеи
+https://www.producthunt.com/  
