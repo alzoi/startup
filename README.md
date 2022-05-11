@@ -20,4 +20,4 @@ https://leader-id.ru/places/1307
 
 # Статьи
 
-te.legra.ph
+https://te.legra.ph  
